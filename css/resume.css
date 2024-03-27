@@ -116,6 +116,13 @@
 .two-columns-list li .company-name{
 	float		: left;
 	}
+	.two-columns-list li .years{
+		width		: 20%;
+		}
+	.two-columns-list li .years,
+	.two-columns-list li .company-name{
+		float		: left;
+		}
 .skill-metrics{
 	padding		: 0;
 	margin		: 40px 0 0 0;
